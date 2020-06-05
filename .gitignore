@@ -1,0 +1,5 @@
+.virtualenvs/
+.vscode/
+models/
+__pycache__/
+test.py

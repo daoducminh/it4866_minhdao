@@ -23,6 +23,6 @@ setup(
         'pylint',
         'autopep8',
         'rope',
-        'yaml'
+        'pyyaml'
     ],
 )

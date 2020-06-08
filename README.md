@@ -1,4 +1,4 @@
-# Detecting Traffic Light using Faster R-CNN
+# Classifying Traffic Light using CNN
 
 ## Installation
 

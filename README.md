@@ -36,3 +36,7 @@ protoc object_detection/protos/*.proto --python_out=.
     then run: `source .virtualenvs/bin/activate`
 
 - Testing the installation: `.virtualenvs/bin/python3 models/research/object_detection/builders/model_builder_tf1_test.py`
+
+## Preparing dataset
+
+- Download dataset from this url: [Traffic Light Dataset](https://bit.ly/30sw7iy)

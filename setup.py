@@ -9,7 +9,7 @@ setup(
         'docs', 'tests', 'static', 'templates', '.gitignore', 'README.md'
     ]),
     install_requires=[
-        'tensorflow-gpu==1.14',
+        'tensorflow',
         'numpy',
         'matplotlib',
         'scikit-learn',
